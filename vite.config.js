@@ -11,6 +11,6 @@ export default defineConfig({
     },
   },
   // "base" is used in production
-  base: "/rpg-menu/",
+  base: "/amadeus-yt/",
   plugins: [react()],
 });
