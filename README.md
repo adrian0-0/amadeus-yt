@@ -1,2 +1,1 @@
-# rpg-menu
 # amadeus-yt
